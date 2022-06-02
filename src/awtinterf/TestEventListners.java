@@ -13,9 +13,7 @@ import javax.swing.*;
 
 import static com.lab2.PolandNotation.*;
 
-/**
- * @author admin
- */
+
 public class TestEventListners {
 
     /**
